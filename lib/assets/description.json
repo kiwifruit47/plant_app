@@ -1,0 +1,164 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "plant": "Bell Pepper",
+    "disease": "Bacterial Spot",
+    "description": "A bacterial infection causing dark, water-soaked spots on leaves and fruit.",
+    "treatment": [
+      "Remove infected leaves",
+      "Avoid overhead watering",
+      "Apply copper-based bactericides",
+      "Rotate crops for 2 years"
+    ]
+  },
+  "Pepper__bell___healthy": {
+    "plant": "Bell Pepper",
+    "disease": "Healthy",
+    "description": "The plant shows no visible signs of disease.",
+    "treatment": [
+      "Maintain regular watering",
+      "Use balanced fertilizer",
+      "Monitor for early signs of pests"
+    ]
+  },
+  "Potato___Early_blight": {
+    "plant": "Potato",
+    "disease": "Early Blight",
+    "description": "A fungal disease causing brown concentric-ring lesions on older leaves.",
+    "treatment": [
+      "Remove infected foliage",
+      "Improve air circulation",
+      "Apply chlorothalonil or copper fungicides",
+      "Rotate crops yearly"
+    ]
+  },
+  "Potato___Late_blight": {
+    "plant": "Potato",
+    "disease": "Late Blight",
+    "description": "A severe disease causing dark, rapidly spreading lesions on leaves and tubers.",
+    "treatment": [
+      "Remove and destroy infected plants",
+      "Avoid wetting foliage",
+      "Apply systemic fungicides",
+      "Avoid planting potatoes in the same soil next season"
+    ]
+  },
+  "Potato___healthy": {
+    "plant": "Potato",
+    "disease": "Healthy",
+    "description": "The plant shows no visible disease symptoms.",
+    "treatment": [
+      "Maintain proper watering",
+      "Fertilize appropriately",
+      "Monitor for pests and diseases"
+    ]
+  },
+  "Tomato_Bacterial_spot": {
+    "plant": "Tomato",
+    "disease": "Bacterial Spot",
+    "description": "A bacterial disease forming small dark spots on leaves and fruit.",
+    "treatment": [
+      "Remove infected leaves",
+      "Disinfect tools",
+      "Avoid overhead watering",
+      "Apply copper-based bactericides"
+    ]
+  },
+  "Tomato_Early_blight": {
+    "plant": "Tomato",
+    "disease": "Early Blight",
+    "description": "A fungal disease causing brown concentric-ring lesions on lower leaves.",
+    "treatment": [
+      "Prune affected leaves",
+      "Improve airflow",
+      "Mulch soil",
+      "Apply chlorothalonil or copper fungicides"
+    ]
+  },
+  "Tomato_Late_blight": {
+    "plant": "Tomato",
+    "disease": "Late Blight",
+    "description": "A destructive disease causing dark, water-soaked lesions and rapid plant decline.",
+    "treatment": [
+      "Remove infected plants immediately",
+      "Avoid moisture on leaves",
+      "Apply systemic fungicides",
+      "Rotate crops"
+    ]
+  },
+  "Tomato_Leaf_Mold": {
+    "plant": "Tomato",
+    "disease": "Leaf Mold",
+    "description": "A fungal disease producing yellow patches and olive-green mold on leaves.",
+    "treatment": [
+      "Increase ventilation",
+      "Reduce humidity",
+      "Remove infected leaves",
+      "Apply copper or chlorothalonil fungicides"
+    ]
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "plant": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "description": "A fungal disease forming many small circular spots with dark borders.",
+    "treatment": [
+      "Remove infected leaves",
+      "Avoid wet foliage",
+      "Mulch soil",
+      "Apply mancozeb or copper fungicides"
+    ]
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "plant": "Tomato",
+    "disease": "Two-Spotted Spider Mite",
+    "description": "A pest infestation causing yellow speckles, webbing, and leaf bronzing.",
+    "treatment": [
+      "Spray leaves with water to remove mites",
+      "Use insecticidal soap or neem oil",
+      "Increase humidity",
+      "Introduce beneficial predators like ladybugs"
+    ]
+  },
+  "Tomato__Target_Spot": {
+    "plant": "Tomato",
+    "disease": "Target Spot",
+    "description": "A fungal disease producing large brown lesions with concentric rings.",
+    "treatment": [
+      "Remove infected leaves",
+      "Improve airflow",
+      "Avoid overhead watering",
+      "Apply broad-spectrum fungicides"
+    ]
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "plant": "Tomato",
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "description": "A viral disease spread by whiteflies, causing curled leaves and stunted growth.",
+    "treatment": [
+      "Remove infected plants",
+      "Control whiteflies with neem oil or insecticidal soap",
+      "Use reflective mulch",
+      "Plant resistant varieties"
+    ]
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "plant": "Tomato",
+    "disease": "Tomato Mosaic Virus",
+    "description": "A viral infection causing mottled leaves and distorted growth.",
+    "treatment": [
+      "Remove infected plants",
+      "Disinfect tools",
+      "Avoid handling tobacco before touching plants",
+      "Use resistant varieties"
+    ]
+  },
+  "Tomato_healthy": {
+    "plant": "Tomato",
+    "disease": "Healthy",
+    "description": "The plant shows no signs of disease or pest damage.",
+    "treatment": [
+      "Maintain good watering practices",
+      "Fertilize regularly",
+      "Monitor for early signs of disease"
+    ]
+  }
+}

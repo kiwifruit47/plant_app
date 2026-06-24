@@ -1,5 +1,5 @@
 import 'package:sqflite/sqflite.dart';
-import '../models/scan.dart';
+import '../model/scan.dart';
 import '../db/database_helper.dart';
 
 class ScanRepository {

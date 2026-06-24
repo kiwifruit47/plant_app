@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/services.dart';
 
-import '../models/disease_info.dart';
+import '../model/disease_info.dart';
 
 class DiseaseRepository {
   Map<String, dynamic>? _cache;

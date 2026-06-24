@@ -3,6 +3,7 @@ import 'db/database_helper.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  //init db
   await DatabaseHelper.instance.initDb();
   runApp(const MainApp());
 }
